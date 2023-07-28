@@ -1,1 +1,0 @@
-# Functional annotation of contigs
